@@ -83,6 +83,3 @@ Two questions, kept deliberately separate rather than blended into one score:
 - Dataset size (12 contracts) is enough to exercise the pipeline and scorer, not enough for a statistically confident accuracy claim, see [Dataset construction](#dataset-construction).
 - No results published yet in `results/`, this build environment has no live Anthropic API credentials. See the README's [Results](../README.md#results) section.
 
-## Relationship to eb1a-rubric-engine
-
-This repo shares its shape with a sibling project, `eb1a-rubric-engine`: both extract this project's author's real, previously-shipped work (EB-1A rubric scoring in one case, commercial contract clause extraction in the other) into a standalone, synthetic-data, MIT-licensed benchmark or engine. If you're looking at one, the other follows the same pattern: rubric or taxonomy as versioned content, one function isolating the model call, JSON Schema as the output contract, and a scorer or lint step kept separate from the extraction logic itself.
