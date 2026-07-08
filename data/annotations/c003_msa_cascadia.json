@@ -1,0 +1,32 @@
+{
+  "contract_id": "c003_msa_cascadia",
+  "pricing_tier": {
+    "present": false,
+    "tiers": [],
+    "quote_span": ""
+  },
+  "discount_threshold": {
+    "present": true,
+    "discount_percent": 10,
+    "trigger_type": "annual_contract_value",
+    "trigger_value": 250000,
+    "trigger_unit": "USD",
+    "quote_span": "If Customer's aggregate annual contract value across all active Statements of Work exceeds two hundred fifty thousand dollars ($250,000) in any contract year, Provider shall issue a credit equal to ten percent (10%) of amounts invoiced in excess of that threshold"
+  },
+  "renewal_term": {
+    "present": true,
+    "renewal_type": "manual",
+    "initial_term_months": 24,
+    "renewal_term_months": null,
+    "notice_period_days": 90,
+    "price_escalation_percent": null,
+    "quote_span": "This Agreement shall not renew automatically. At least ninety (90) days before the end of the Initial Term, the parties may negotiate and execute a written amendment extending the term for an additional period on mutually agreed conditions; absent such a signed amendment, this Agreement terminates at the end of the Initial Term."
+  },
+  "msa_sow_linkage": {
+    "present": false,
+    "reference_type": "none",
+    "referenced_document": null,
+    "order_of_precedence_note": null,
+    "quote_span": ""
+  }
+}

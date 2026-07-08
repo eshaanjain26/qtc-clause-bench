@@ -1,0 +1,18 @@
+STATEMENT OF WORK
+
+This Statement of Work is issued under and governed by the Master Framework Agreement dated November 20, 2025, by and between Larkspur Cloud Systems B.V. ("Provider") and Dunmore Industrial Group ("Customer").
+
+1. SCOPE
+Provider will license its inventory-optimization module to Customer for use across Customer's European operations.
+
+2. PRICING
+License fees are tiered based on the number of active named licenses, denominated in Euros:
+
+- 1 to 200 licenses: EUR 65.00 per license per month
+- 201 to 750 licenses: EUR 54.00 per license per month
+- 751 to 1,500 licenses: EUR 46.00 per license per month
+
+3. TERM
+This SOW is effective for twelve (12) months from the date last signed and does not include a renewal mechanism; a successor SOW must be executed for continued use.
+
+IN WITNESS WHEREOF, the parties have executed this SOW as of the date last signed below.

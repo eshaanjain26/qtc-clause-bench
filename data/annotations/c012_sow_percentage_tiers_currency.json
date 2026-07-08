@@ -1,0 +1,37 @@
+{
+  "contract_id": "c012_sow_percentage_tiers_currency",
+  "pricing_tier": {
+    "present": true,
+    "tiers": [
+      {"threshold_low": 1, "threshold_high": 200, "unit_price": 65.00, "unit": "license_per_month", "currency": "EUR"},
+      {"threshold_low": 201, "threshold_high": 750, "unit_price": 54.00, "unit": "license_per_month", "currency": "EUR"},
+      {"threshold_low": 751, "threshold_high": 1500, "unit_price": 46.00, "unit": "license_per_month", "currency": "EUR"}
+    ],
+    "quote_span": "License fees are tiered based on the number of active named licenses, denominated in Euros: 1 to 200 licenses: EUR 65.00 per license per month; 201 to 750 licenses: EUR 54.00 per license per month; 751 to 1,500 licenses: EUR 46.00 per license per month",
+    "annotation_note": "Non-USD currency case. Tests whether the extractor correctly populates the currency field as EUR instead of defaulting to USD."
+  },
+  "discount_threshold": {
+    "present": false,
+    "discount_percent": null,
+    "trigger_type": "none",
+    "trigger_value": null,
+    "trigger_unit": null,
+    "quote_span": ""
+  },
+  "renewal_term": {
+    "present": false,
+    "renewal_type": "none",
+    "initial_term_months": 12,
+    "renewal_term_months": null,
+    "notice_period_days": null,
+    "price_escalation_percent": null,
+    "quote_span": "This SOW is effective for twelve (12) months from the date last signed and does not include a renewal mechanism; a successor SOW must be executed for continued use."
+  },
+  "msa_sow_linkage": {
+    "present": true,
+    "reference_type": "title_and_date",
+    "referenced_document": "Master Framework Agreement dated November 20, 2025",
+    "order_of_precedence_note": null,
+    "quote_span": "This Statement of Work is issued under and governed by the Master Framework Agreement dated November 20, 2025"
+  }
+}

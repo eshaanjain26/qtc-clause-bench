@@ -1,0 +1,23 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is entered into as of March 3, 2025 ("Effective Date") by and between Northwind Data Corp., a Delaware corporation ("Provider"), and Bramblewood Analytics, Inc., a California corporation ("Customer").
+
+1. SCOPE
+Provider will make available certain data-processing services to Customer as described in one or more Statements of Work ("SOWs") executed under this Agreement from time to time. Each SOW shall reference this Agreement by its Effective Date and shall be governed by these terms unless the SOW expressly states otherwise.
+
+2. FEES
+Fees for services under any SOW shall be set forth in the applicable SOW or Order Form. This Agreement does not itself establish pricing.
+
+3. TERM AND RENEWAL
+This Agreement shall commence on the Effective Date and continue for an initial term of twelve (12) months ("Initial Term"). Thereafter, this Agreement shall automatically renew for successive twelve (12) month terms (each a "Renewal Term") unless either party provides written notice of non-renewal at least forty-five (45) days prior to the end of the then-current term. Fees payable under any SOW in effect during a Renewal Term shall increase by three percent (3%) over the prior term's rates, unless otherwise agreed in writing.
+
+4. VOLUME COMMITMENT DISCOUNT
+Customer may elect, by written notice delivered prior to executing a SOW, to commit to a minimum term of thirty-six (36) months for a given SOW ("Multi-Year Commitment"). Where Customer makes a Multi-Year Commitment, Provider shall apply a discount of fifteen percent (15%) to the list pricing otherwise applicable under that SOW for its entire term.
+
+5. TERMINATION
+Either party may terminate this Agreement for material breach not cured within thirty (30) days of written notice.
+
+6. GENERAL
+This Agreement, together with all SOWs executed hereunder, constitutes the entire agreement between the parties with respect to its subject matter.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.

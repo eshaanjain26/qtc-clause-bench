@@ -1,0 +1,23 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+This Master Subscription Agreement (the "Agreement") is entered into as of September 1, 2025, by and between Alderpoint Software, Inc. ("Provider") and Quillmark Media Group ("Customer").
+
+1. SERVICES
+Provider will make its platform available to Customer as described in one or more Order Forms executed under this Agreement.
+
+2. TERM
+This Agreement shall commence on the Effective Date and shall continue in effect until terminated by either party in accordance with Section 5. There is no fixed expiration date for this Agreement itself; individual Order Forms specify their own subscription periods.
+
+3. FEES
+Fees are set forth in the applicable Order Form.
+
+4. PRICING PROTECTION
+Provider shall not increase pricing under any active Order Form during its stated subscription period.
+
+5. TERMINATION
+Either party may terminate this Agreement, and all Order Forms then in effect, upon ninety (90) days' written notice for convenience, or immediately for the other party's uncured material breach.
+
+6. GENERAL
+This Agreement and any Order Form together constitute the entire agreement of the parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.

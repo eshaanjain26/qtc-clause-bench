@@ -1,0 +1,14 @@
+STATEMENT OF WORK NO. 4
+
+This Statement of Work is issued under and governed by the Master Purchase Agreement dated October 1, 2022 (the "MPA") by and between Greyhollow Components Inc. ("Provider") and Sableton Manufacturing Co. ("Customer"). This SOW does not modify, and is not governed by, the separate Reseller Agreement between Provider and Customer's distributor, Kettlebrook Supply Co., which addresses an unrelated resale arrangement and has no bearing on the pricing or terms of this SOW.
+
+1. SCOPE
+Provider will supply replacement sensor modules as ordered by Customer from time to time under this SOW.
+
+2. PRICING
+Sensor modules are priced at $85.00 per unit for orders of 1 to 500 units, and $72.00 per unit for orders of 501 units or more, per purchase order.
+
+3. GOVERNING TERMS
+Except as expressly modified herein, this SOW is subject to the terms of the MPA in all respects, including its limitation of liability and confidentiality provisions.
+
+IN WITNESS WHEREOF, the parties have executed this SOW as of the date last signed below.

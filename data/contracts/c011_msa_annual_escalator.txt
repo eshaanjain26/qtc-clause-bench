@@ -1,0 +1,17 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (the "Agreement") is entered into as of April 18, 2026, between Hollowmere Security Systems Inc. ("Provider") and Ashbury Regional Hospitals Network ("Customer").
+
+1. SERVICES
+Provider will provide managed security monitoring services described in one or more Order Forms.
+
+2. TERM AND RENEWAL
+This Agreement shall commence on the Effective Date and continue for an Initial Term of twelve (12) months. Thereafter, this Agreement shall automatically renew for successive twelve (12) month Renewal Terms unless either party delivers written notice of non-renewal at least thirty (30) days before the end of the then-current term. Upon each renewal, fees then in effect shall increase by the greater of (a) the percentage increase in the Consumer Price Index for the preceding twelve months, or (b) five percent (5%).
+
+3. VOLUME DISCOUNT
+Where Customer's total monitored endpoint count exceeds 2,000 endpoints at any point during a contract year, Provider shall apply an eight percent (8%) discount to per-endpoint fees for all endpoints for the remainder of that contract year.
+
+4. SERVICE LEVELS
+Provider shall maintain 99.9% monitoring uptime, measured monthly, with service credits for shortfalls as set forth in Exhibit A.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.

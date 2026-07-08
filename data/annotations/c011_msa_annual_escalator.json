@@ -1,0 +1,33 @@
+{
+  "contract_id": "c011_msa_annual_escalator",
+  "pricing_tier": {
+    "present": false,
+    "tiers": [],
+    "quote_span": ""
+  },
+  "discount_threshold": {
+    "present": true,
+    "discount_percent": 8,
+    "trigger_type": "volume",
+    "trigger_value": 2000,
+    "trigger_unit": "endpoints",
+    "quote_span": "Where Customer's total monitored endpoint count exceeds 2,000 endpoints at any point during a contract year, Provider shall apply an eight percent (8%) discount to per-endpoint fees"
+  },
+  "renewal_term": {
+    "present": true,
+    "renewal_type": "auto",
+    "initial_term_months": 12,
+    "renewal_term_months": 12,
+    "notice_period_days": 30,
+    "price_escalation_percent": 5,
+    "quote_span": "this Agreement shall automatically renew for successive twelve (12) month Renewal Terms unless either party delivers written notice of non-renewal at least thirty (30) days before the end of the then-current term. Upon each renewal, fees then in effect shall increase by the greater of (a) the percentage increase in the Consumer Price Index for the preceding twelve months, or (b) five percent (5%).",
+    "annotation_note": "price_escalation_percent is recorded as the fixed floor (5%) since the CPI-based alternative is variable and not resolvable to a single number at extraction time; a good extractor should surface both the CPI reference and the 5% floor in its assessment text even though the structured field can only hold one number."
+  },
+  "msa_sow_linkage": {
+    "present": false,
+    "reference_type": "none",
+    "referenced_document": null,
+    "order_of_precedence_note": null,
+    "quote_span": ""
+  }
+}

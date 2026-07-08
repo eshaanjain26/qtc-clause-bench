@@ -1,0 +1,33 @@
+{
+  "contract_id": "c009_msa_short_term_no_renewal",
+  "pricing_tier": {
+    "present": false,
+    "tiers": [],
+    "quote_span": "Fees are set forth in the applicable Order Form and are not tiered; a single flat monthly fee applies regardless of transaction volume."
+  },
+  "discount_threshold": {
+    "present": false,
+    "discount_percent": null,
+    "trigger_type": "none",
+    "trigger_value": null,
+    "trigger_unit": null,
+    "quote_span": ""
+  },
+  "renewal_term": {
+    "present": false,
+    "renewal_type": "none",
+    "initial_term_months": 6,
+    "renewal_term_months": null,
+    "notice_period_days": null,
+    "price_escalation_percent": null,
+    "quote_span": "This Agreement shall terminate automatically at the end of that six-month term and shall not renew, whether automatically or otherwise. Continued services after the term requires a new, separately negotiated agreement.",
+    "annotation_note": "Explicit non-renewal case. The word 'automatically' appears in the same sentence as 'terminate', not 'renew' — a known trap for keyword-matching extractors that key on 'automatically renew' without reading what automatically modifies."
+  },
+  "msa_sow_linkage": {
+    "present": false,
+    "reference_type": "none",
+    "referenced_document": null,
+    "order_of_precedence_note": null,
+    "quote_span": ""
+  }
+}

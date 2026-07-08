@@ -1,0 +1,21 @@
+STATEMENT OF WORK
+
+This Statement of Work ("SOW") is issued under Exhibit C to the Master Services Agreement between Cascadia Cloud Services LLC and Fernway Logistics Group (the "MSA"). This SOW incorporates the MSA's general terms by reference; in the event of conflict specific to the equipment described herein, this SOW controls.
+
+1. SCOPE
+Provider will supply and configure edge-compute appliances at Customer's regional distribution centers.
+
+2. PRICING
+Appliance pricing is tiered by total unit quantity ordered under this SOW:
+
+- 1 to 10 units: $12,000 per unit
+- 11 to 25 units: $10,500 per unit
+- 26 to 50 units: $9,000 per unit
+
+3. PREPAYMENT DISCOUNT
+Customer may elect to prepay the full SOW value within fifteen (15) days of the SOW effective date. Orders paid in full within that window receive a five percent (5%) discount off the total invoice, applied as a one-time credit; this discount applies only to this single purchase and does not affect future orders.
+
+4. DELIVERY
+Provider shall deliver ordered appliances within sixty (60) days of order confirmation.
+
+IN WITNESS WHEREOF, the parties have executed this SOW as of the date last signed below.

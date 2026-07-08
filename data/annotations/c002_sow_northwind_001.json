@@ -1,0 +1,36 @@
+{
+  "contract_id": "c002_sow_northwind_001",
+  "pricing_tier": {
+    "present": true,
+    "tiers": [
+      {"threshold_low": 1, "threshold_high": 100, "unit_price": 40.00, "unit": "seat_per_month", "currency": "USD"},
+      {"threshold_low": 101, "threshold_high": 300, "unit_price": 34.00, "unit": "seat_per_month", "currency": "USD"},
+      {"threshold_low": 301, "threshold_high": 500, "unit_price": 28.00, "unit": "seat_per_month", "currency": "USD"}
+    ],
+    "quote_span": "Pricing for named user seats is tiered based on total active seats per month, as follows: 1 to 100 seats: $40.00 per seat per month; 101 to 300 seats: $34.00 per seat per month; 301 to 500 seats: $28.00 per seat per month"
+  },
+  "discount_threshold": {
+    "present": false,
+    "discount_percent": null,
+    "trigger_type": "none",
+    "trigger_value": null,
+    "trigger_unit": null,
+    "quote_span": ""
+  },
+  "renewal_term": {
+    "present": false,
+    "renewal_type": "none",
+    "initial_term_months": 12,
+    "renewal_term_months": null,
+    "notice_period_days": null,
+    "price_escalation_percent": null,
+    "quote_span": "This SOW shall commence on April 1, 2025 and continue for a fixed term of twelve (12) months, after which it shall expire. This SOW does not renew automatically; a new SOW must be executed for continued services."
+  },
+  "msa_sow_linkage": {
+    "present": true,
+    "reference_type": "title_and_date",
+    "referenced_document": "Master Services Agreement dated March 3, 2025",
+    "order_of_precedence_note": "In the event of a conflict between this SOW and the Agreement, the Agreement shall control except as to matters of scope and pricing specific to this SOW.",
+    "quote_span": "This Statement of Work (\"SOW\") is issued pursuant to and governed by the Master Services Agreement dated March 3, 2025"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contract_id": "c006_sow_evergreen_partial",
+  "pricing_tier": {
+    "present": false,
+    "tiers": [],
+    "quote_span": "PRICING: $18,500 per month, billed quarterly in advance.",
+    "annotation_note": "Flat monthly pricing, not tiered by volume. present=false because there is no threshold structure, a single flat rate is a different data point (out of scope for this clause type) rather than a pricing_tier with one tier."
+  },
+  "discount_threshold": {
+    "present": false,
+    "discount_percent": null,
+    "trigger_type": "none",
+    "trigger_value": null,
+    "trigger_unit": null,
+    "quote_span": ""
+  },
+  "renewal_term": {
+    "present": false,
+    "renewal_type": "none",
+    "initial_term_months": 12,
+    "renewal_term_months": null,
+    "notice_period_days": null,
+    "price_escalation_percent": null,
+    "quote_span": "This Order Form does not itself specify a renewal mechanism; renewal terms are governed by the underlying agreement referenced above."
+  },
+  "msa_sow_linkage": {
+    "present": true,
+    "reference_type": "unspecified",
+    "referenced_document": null,
+    "order_of_precedence_note": null,
+    "quote_span": "This Order Form is issued pursuant to the Master Subscription Agreement between the parties and is subject to its terms.",
+    "annotation_note": "A linkage clause exists, but it names no date, title-and-date, or exhibit number for the governing agreement, only 'the Master Subscription Agreement between the parties.' reference_type=unspecified marks this as a weak/incomplete reference: the gap a real reviewer would flag, distinct from a clean date or exhibit citation."
+  }
+}

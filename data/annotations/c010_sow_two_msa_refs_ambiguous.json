@@ -1,0 +1,36 @@
+{
+  "contract_id": "c010_sow_two_msa_refs_ambiguous",
+  "pricing_tier": {
+    "present": true,
+    "tiers": [
+      {"threshold_low": 1, "threshold_high": 500, "unit_price": 85.00, "unit": "sensor_module", "currency": "USD"},
+      {"threshold_low": 501, "threshold_high": null, "unit_price": 72.00, "unit": "sensor_module", "currency": "USD"}
+    ],
+    "quote_span": "Sensor modules are priced at $85.00 per unit for orders of 1 to 500 units, and $72.00 per unit for orders of 501 units or more, per purchase order."
+  },
+  "discount_threshold": {
+    "present": false,
+    "discount_percent": null,
+    "trigger_type": "none",
+    "trigger_value": null,
+    "trigger_unit": null,
+    "quote_span": ""
+  },
+  "renewal_term": {
+    "present": false,
+    "renewal_type": "none",
+    "initial_term_months": null,
+    "renewal_term_months": null,
+    "notice_period_days": null,
+    "price_escalation_percent": null,
+    "quote_span": ""
+  },
+  "msa_sow_linkage": {
+    "present": true,
+    "reference_type": "title_and_date",
+    "referenced_document": "Master Purchase Agreement dated October 1, 2022",
+    "order_of_precedence_note": "Except as expressly modified herein, this SOW is subject to the terms of the MPA in all respects, including its limitation of liability and confidentiality provisions.",
+    "quote_span": "This Statement of Work is issued under and governed by the Master Purchase Agreement dated October 1, 2022 (the \"MPA\")",
+    "annotation_note": "Distractor case: the document names two agreements. The Reseller Agreement with a third party (Kettlebrook Supply Co.) is explicitly disclaimed as having no bearing on this SOW and must not be extracted as the governing document. This tests precision under a same-document red herring, a wrong extraction here would name the Reseller Agreement or merge both references."
+  }
+}

@@ -1,0 +1,17 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (the "Agreement") is made as of February 5, 2026, between Copperline Payments Inc. ("Provider") and Wrenfield Retail Holdings ("Customer").
+
+1. SERVICES
+Provider will supply payment reconciliation services described in Order Forms executed under this Agreement.
+
+2. TERM
+This Agreement shall have a term of six (6) months from the Effective Date. This Agreement shall terminate automatically at the end of that six-month term and shall not renew, whether automatically or otherwise. Continued services after the term requires a new, separately negotiated agreement.
+
+3. FEES
+Fees are set forth in the applicable Order Form and are not tiered; a single flat monthly fee applies regardless of transaction volume.
+
+4. WARRANTY
+Provider warrants that services will be performed in a professional and workmanlike manner consistent with industry standards.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.

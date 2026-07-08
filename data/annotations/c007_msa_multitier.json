@@ -1,0 +1,37 @@
+{
+  "contract_id": "c007_msa_multitier",
+  "pricing_tier": {
+    "present": true,
+    "tiers": [
+      {"threshold_low": 0, "threshold_high": 1000000, "unit_price": 0.0020, "unit": "api_call", "currency": "USD"},
+      {"threshold_low": 1000001, "threshold_high": 10000000, "unit_price": 0.0015, "unit": "api_call", "currency": "USD"},
+      {"threshold_low": 10000001, "threshold_high": null, "unit_price": 0.0010, "unit": "api_call", "currency": "USD"}
+    ],
+    "quote_span": "The base list price per API call is tiered based on monthly call volume, as follows: 0 to 1,000,000 calls: $0.0020 per call; 1,000,001 to 10,000,000 calls: $0.0015 per call; 10,000,001+ calls: $0.0010 per call"
+  },
+  "discount_threshold": {
+    "present": true,
+    "discount_percent": 12,
+    "trigger_type": "annual_contract_value",
+    "trigger_value": 1000000,
+    "trigger_unit": "USD",
+    "quote_span": "where Customer commits in writing to a minimum annual spend of one million dollars ($1,000,000) across the contract year, Provider shall apply an additional discount of twelve percent (12%) off the tier pricing",
+    "annotation_note": "Co-occurrence case: a discount_threshold clause stacks on top of an already-tiered pricing_tier clause in the same document. Tests whether the extractor keeps the two clause types separate rather than merging the 12% into the tier unit prices."
+  },
+  "renewal_term": {
+    "present": false,
+    "renewal_type": "none",
+    "initial_term_months": 12,
+    "renewal_term_months": null,
+    "notice_period_days": null,
+    "price_escalation_percent": null,
+    "quote_span": "This Agreement has an Initial Term of twelve (12) months and does not include any renewal or extension mechanism; the parties must execute a new agreement for continued services beyond the Initial Term."
+  },
+  "msa_sow_linkage": {
+    "present": false,
+    "reference_type": "none",
+    "referenced_document": null,
+    "order_of_precedence_note": null,
+    "quote_span": ""
+  }
+}

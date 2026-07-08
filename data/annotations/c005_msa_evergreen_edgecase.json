@@ -1,0 +1,33 @@
+{
+  "contract_id": "c005_msa_evergreen_edgecase",
+  "pricing_tier": {
+    "present": false,
+    "tiers": [],
+    "quote_span": ""
+  },
+  "discount_threshold": {
+    "present": false,
+    "discount_percent": null,
+    "trigger_type": "none",
+    "trigger_value": null,
+    "trigger_unit": null,
+    "quote_span": ""
+  },
+  "renewal_term": {
+    "present": true,
+    "renewal_type": "auto",
+    "initial_term_months": null,
+    "renewal_term_months": null,
+    "notice_period_days": 90,
+    "price_escalation_percent": null,
+    "quote_span": "This Agreement shall commence on the Effective Date and shall continue in effect until terminated by either party in accordance with Section 5. There is no fixed expiration date for this Agreement itself; individual Order Forms specify their own subscription periods. ... Either party may terminate this Agreement, and all Order Forms then in effect, upon ninety (90) days' written notice for convenience"
+  },
+  "msa_sow_linkage": {
+    "present": false,
+    "reference_type": "none",
+    "referenced_document": null,
+    "order_of_precedence_note": null,
+    "quote_span": ""
+  },
+  "annotation_note": "Evergreen/perpetual term with a termination-for-convenience notice period, not a classic fixed-term auto-renewal. initial_term_months and renewal_term_months are null by design: there is no cyclical term to measure. This is a deliberate edge case for scoring renewal_type classification against a non-standard perpetual structure."
+}

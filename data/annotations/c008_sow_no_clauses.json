@@ -1,0 +1,33 @@
+{
+  "contract_id": "c008_sow_no_clauses",
+  "pricing_tier": {
+    "present": false,
+    "tiers": [],
+    "quote_span": ""
+  },
+  "discount_threshold": {
+    "present": false,
+    "discount_percent": null,
+    "trigger_type": "none",
+    "trigger_value": null,
+    "trigger_unit": null,
+    "quote_span": ""
+  },
+  "renewal_term": {
+    "present": false,
+    "renewal_type": "none",
+    "initial_term_months": null,
+    "renewal_term_months": null,
+    "notice_period_days": null,
+    "price_escalation_percent": null,
+    "quote_span": ""
+  },
+  "msa_sow_linkage": {
+    "present": false,
+    "reference_type": "none",
+    "referenced_document": null,
+    "order_of_precedence_note": null,
+    "quote_span": ""
+  },
+  "annotation_note": "Pure negative control: a fixed-fee professional-services SOW with no pricing tiers, no discount clause, no renewal clause, and no reference to a governing MSA anywhere in the document (it is silent on pricing entirely). All four clause types are true negatives. This tests the extractor's false-positive rate directly, a good pipeline hallucinates nothing here."
+}

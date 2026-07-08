@@ -1,0 +1,23 @@
+STATEMENT OF WORK NO. 1
+
+This Statement of Work ("SOW") is issued pursuant to and governed by the Master Services Agreement dated March 3, 2025 (the "Agreement") by and between Northwind Data Corp. ("Provider") and Bramblewood Analytics, Inc. ("Customer"). In the event of a conflict between this SOW and the Agreement, the Agreement shall control except as to matters of scope and pricing specific to this SOW.
+
+1. SERVICES
+Provider will provide data pipeline monitoring services for up to 500 named user seats.
+
+2. TERM
+This SOW shall commence on April 1, 2025 and continue for a fixed term of twelve (12) months, after which it shall expire. This SOW does not renew automatically; a new SOW must be executed for continued services.
+
+3. PRICING
+Pricing for named user seats is tiered based on total active seats per month, as follows:
+
+- 1 to 100 seats: $40.00 per seat per month
+- 101 to 300 seats: $34.00 per seat per month
+- 301 to 500 seats: $28.00 per seat per month
+
+Invoices will be issued monthly in arrears based on peak active seat count for the month.
+
+4. ACCEPTANCE
+Customer shall have ten (10) business days from delivery to accept or reject any deliverable under this SOW.
+
+IN WITNESS WHEREOF, the parties have executed this SOW as of the date last signed below.

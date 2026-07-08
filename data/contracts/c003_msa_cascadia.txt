@@ -1,0 +1,20 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (the "Agreement") is made effective as of June 10, 2025, between Cascadia Cloud Services LLC ("Provider") and Fernway Logistics Group ("Customer").
+
+1. SERVICES
+Provider will supply cloud infrastructure hosting services as described in one or more Statements of Work.
+
+2. TERM
+The Initial Term of this Agreement is twenty-four (24) months from the Effective Date. This Agreement shall not renew automatically. At least ninety (90) days before the end of the Initial Term, the parties may negotiate and execute a written amendment extending the term for an additional period on mutually agreed conditions; absent such a signed amendment, this Agreement terminates at the end of the Initial Term.
+
+3. ANNUAL SPEND DISCOUNT
+If Customer's aggregate annual contract value across all active Statements of Work exceeds two hundred fifty thousand dollars ($250,000) in any contract year, Provider shall issue a credit equal to ten percent (10%) of amounts invoiced in excess of that threshold for the remainder of that contract year.
+
+4. CONFIDENTIALITY
+Each party shall protect the other's confidential information using at least the same degree of care it uses for its own confidential information, and in no event less than reasonable care.
+
+5. LIMITATION OF LIABILITY
+Neither party's aggregate liability under this Agreement shall exceed the fees paid by Customer in the twelve (12) months preceding the claim.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.

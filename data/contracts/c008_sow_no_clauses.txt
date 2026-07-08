@@ -1,0 +1,20 @@
+STATEMENT OF WORK
+
+Customer: Redcliff Municipal Water Authority
+Provider: Thistledown API Services Inc.
+
+1. SCOPE OF WORK
+Provider will conduct a technical assessment of Customer's existing telemetry infrastructure and deliver a written findings report within thirty (30) days of the kickoff meeting.
+
+2. DELIVERABLES
+- Kickoff meeting notes
+- Draft findings report
+- Final findings report incorporating Customer feedback
+
+3. CUSTOMER RESPONSIBILITIES
+Customer will provide Provider with read access to relevant telemetry dashboards and designate a single point of contact for the duration of the engagement.
+
+4. ACCEPTANCE
+The final findings report shall be deemed accepted ten (10) business days after delivery unless Customer provides written objections specifying deficiencies.
+
+IN WITNESS WHEREOF, the parties have executed this SOW as of the date last signed below.

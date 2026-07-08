@@ -1,0 +1,36 @@
+{
+  "contract_id": "c004_sow_cascadia_hardware",
+  "pricing_tier": {
+    "present": true,
+    "tiers": [
+      {"threshold_low": 1, "threshold_high": 10, "unit_price": 12000, "unit": "appliance_unit", "currency": "USD"},
+      {"threshold_low": 11, "threshold_high": 25, "unit_price": 10500, "unit": "appliance_unit", "currency": "USD"},
+      {"threshold_low": 26, "threshold_high": 50, "unit_price": 9000, "unit": "appliance_unit", "currency": "USD"}
+    ],
+    "quote_span": "Appliance pricing is tiered by total unit quantity ordered under this SOW: 1 to 10 units: $12,000 per unit; 11 to 25 units: $10,500 per unit; 26 to 50 units: $9,000 per unit"
+  },
+  "discount_threshold": {
+    "present": true,
+    "discount_percent": 5,
+    "trigger_type": "one_time_purchase",
+    "trigger_value": 15,
+    "trigger_unit": "days_prepayment_window",
+    "quote_span": "Orders paid in full within that window receive a five percent (5%) discount off the total invoice, applied as a one-time credit; this discount applies only to this single purchase and does not affect future orders."
+  },
+  "renewal_term": {
+    "present": false,
+    "renewal_type": "none",
+    "initial_term_months": null,
+    "renewal_term_months": null,
+    "notice_period_days": null,
+    "price_escalation_percent": null,
+    "quote_span": ""
+  },
+  "msa_sow_linkage": {
+    "present": true,
+    "reference_type": "exhibit_number",
+    "referenced_document": "Exhibit C to the Master Services Agreement between Cascadia Cloud Services LLC and Fernway Logistics Group",
+    "order_of_precedence_note": "This SOW incorporates the MSA's general terms by reference; in the event of conflict specific to the equipment described herein, this SOW controls.",
+    "quote_span": "This Statement of Work (\"SOW\") is issued under Exhibit C to the Master Services Agreement between Cascadia Cloud Services LLC and Fernway Logistics Group (the \"MSA\")."
+  }
+}

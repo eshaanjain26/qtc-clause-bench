@@ -1,0 +1,32 @@
+{
+  "contract_id": "c001_msa_northwind",
+  "pricing_tier": {
+    "present": false,
+    "tiers": [],
+    "quote_span": ""
+  },
+  "discount_threshold": {
+    "present": true,
+    "discount_percent": 15,
+    "trigger_type": "multi_year_commitment",
+    "trigger_value": 36,
+    "trigger_unit": "months",
+    "quote_span": "Where Customer makes a Multi-Year Commitment, Provider shall apply a discount of fifteen percent (15%) to the list pricing otherwise applicable under that SOW for its entire term."
+  },
+  "renewal_term": {
+    "present": true,
+    "renewal_type": "auto",
+    "initial_term_months": 12,
+    "renewal_term_months": 12,
+    "notice_period_days": 45,
+    "price_escalation_percent": 3,
+    "quote_span": "this Agreement shall automatically renew for successive twelve (12) month terms (each a \"Renewal Term\") unless either party provides written notice of non-renewal at least forty-five (45) days prior to the end of the then-current term. Fees payable under any SOW in effect during a Renewal Term shall increase by three percent (3%) over the prior term's rates"
+  },
+  "msa_sow_linkage": {
+    "present": false,
+    "reference_type": "none",
+    "referenced_document": null,
+    "order_of_precedence_note": null,
+    "quote_span": ""
+  }
+}
